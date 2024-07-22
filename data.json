@@ -55,14 +55,14 @@
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
+      "name": "NHN Java Backed 개발과정",
+      "period": ["2023.08.28", "2023.12.15"],
       "description": "첫번째 교육에 대한 간략한 설명"
     },
     {
       "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
+      "name": "SSAFY",
+      "period": ["2024.01.02", "~"],
       "description": "두번째 교육에 대한 간략한 설명"
     }
   ],
@@ -91,10 +91,10 @@
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "",
+      "date": "",
+      "organizer": "",
+      "description": ""
     }
   ]
 }
