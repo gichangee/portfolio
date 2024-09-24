@@ -61,6 +61,15 @@
     },
     {
       "id": 4,
+      "name": "쇼핑물 웹사이트 구현",
+      "description": "servlet-jsp 기반 Web Application을 MVC 패턴을 적용해 구현하며 학습했습니다.",
+      "repoUrl": "https://github.com/gichangee/nhn_shoppingmall",
+      "isTeam": false,
+      "period": ["2023. 12", "2023. 12"],
+      "stack": ["Java","JSP/Servlet","MySQL","HTML/CSS/JS"]
+    },
+    {
+      "id": 5,
       "name": "기돌로그",
       "description": "간단한 블로그, 지금까지 학습한걸 구현 및 배포까지 직접 구현하며 학습하였습니다.",
       "webUrl": "https://github.com/gichangee/gidolog",
@@ -68,15 +77,6 @@
       "isTeam": false,
       "period": ["2024. 09", "2024. 12"],
       "stack": ["SPring", "SpringBoot","Vue.js","H2","Spring Security","Spring Rest Docs", "JPA"]
-    },
-    {
-      "id": 5,
-      "name": "쇼핑물 웹사이트 구현",
-      "description": "servlet-jsp 기반 Web Application을 MVC 패턴을 적용해 구현하며 학습했습니다.",
-      "repoUrl": "https://github.com/gichangee/nhn_shoppingmall",
-      "isTeam": false,
-      "period": ["2023. 12", "2023. 12"],
-      "stack": ["Java","JSP/Servlet","MySQL","HTML/CSS/JS"]
     }
   ],
 
