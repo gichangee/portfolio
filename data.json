@@ -24,7 +24,7 @@
     {
       "id": 0,
       "name": "Home Finder",
-      "description": "공공데이터 API를 활용해 아파트 최근 거래 내역과 주변 편의시설을 알려주는 서비스 제공",
+      "description": "공공데이터 API를 활용해 아파트 최근 거래 내역과 주변 편의시설을 알려주는 웹사이트",
       "repoUrl": "https://github.com/gichangee/Home-Finder/",
       "isTeam": true,
       "period": ["2024. 05", "2024. 06"],
@@ -33,26 +33,26 @@
     {
       "id": 1,
       "name": "Readly",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "repoUrl": "https://github.com/sjoleee/",
+      "description": "독서를 하고싶은 사람들을 위한 독서 장려 웹사이트",
+      "repoUrl": "https://github.com/gichangee/Readly",
       "isTeam": true,
       "period": ["2024. 07", "2024. 08"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "stack": ["Spring", "React", "MySQL","JPA","Redis"]
     },
     {
       "id": 2,
       "name": "요리조리",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "description": "사용자의 정보를 이용한 레시피 추천 웹사이트",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
       "period": ["2024. 08", "2024. 10"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "stack": ["Spring", "React", "Jenkins","Docker","MySQL","JPA"]
     },
     {
       "id": 3,
       "name": "자율프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "description": "싸피 자율프로젝트",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
@@ -62,12 +62,12 @@
     {
       "id": 4,
       "name": "기돌로그",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
+      "description": "간단한 블로그, 지금까지 학습한걸 구현 및 배포까지 직접 구현하며 학습하였습니다.",
+      "webUrl": "https://github.com/gichangee/gidolog",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": false,
       "period": ["2024. 09", "2024. 12"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "stack": ["SPring", "SpringBoot","Vue.js","H2","Spring Security","Spring Rest Docs"]
     },
     {
       "id": 5,
