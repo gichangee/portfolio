@@ -24,11 +24,11 @@
     {
       "id": 0,
       "name": "Home Finder",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "repoUrl": "https://github.com/sjoleee/",
+      "description": "공공데이터 API를 활용해 아파트 최근 거래 내역과 주변 편의시설을 알려주는 서비스 제공",
+      "repoUrl": "https://github.com/gichangee/Home-Finder/",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "period": ["2024. 05", "2024. 06"],
+      "stack": ["Spring", "SpringBoot", "MySQL", "Vue.js"]
     },
     {
       "id": 1,
@@ -36,7 +36,7 @@
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
-      "period": ["2022. 10", "2022. 11"],
+      "period": ["2024. 07", "2024. 08"],
       "stack": ["JavaScript", "HTML/CSS"]
     },
     {
@@ -46,7 +46,7 @@
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
-      "period": ["2022. 10", "2022. 11"],
+      "period": ["2024. 08", "2024. 10"],
       "stack": ["JavaScript", "HTML/CSS"]
     },
     {
@@ -56,7 +56,7 @@
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
-      "period": ["2022. 10", "2022. 11"],
+      "period": ["2024. 10", "2024. 11"],
       "stack": ["JavaScript", "HTML/CSS"]
     },
     {
@@ -66,7 +66,7 @@
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
+      "period": ["2024. 09", "2024. 12"],
       "stack": ["JavaScript", "HTML/CSS"]
     },
     {
