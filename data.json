@@ -42,9 +42,9 @@
     {
       "id": 2,
       "name": "요리조리",
-      "description": "사용자의 정보를 이용한 레시피 추천 웹사이트",
+      "description": "사용자의 정보를 이용한 레시피 추천 웹사이트입니다.",
       "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://j11c206.p.ssafy.io/",
       "isTeam": true,
       "period": ["2024. 08", "2024. 10"],
       "stack": ["Spring", "React", "Jenkins","Docker","MySQL","JPA"]
@@ -100,7 +100,7 @@
       "id": 1,
       "name": "SSAFY",
       "period": ["2024.01.02", "~"],
-      "description": "삼성 청년 SW 아카데미(SSAFY)에서 웹 프레임워크(Spring, Vue.js), 알고리즘를 학습하였습니다."
+      "description": "삼성 청년 SW 아카데미(SSAFY)에서 웹 프레임워크(Spring, Vue.js), 알고리즘를 학습하고 배운 내용을 바탕으로 프로젝트 경험을 쌓았습니다."
     },  
     {
       "id": 2,
