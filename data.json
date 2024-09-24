@@ -24,16 +24,16 @@
     {
       "id": 0,
       "name": "Home Finder",
-      "description": "공공데이터 API를 활용해 아파트 최근 거래 내역과 주변 편의시설을 알려주는 웹사이트",
+      "description": "아파트 최근 거래 내역과 주변 편의시설을 알려주는 웹사이트입니다.",
       "repoUrl": "https://github.com/gichangee/Home-Finder/",
       "isTeam": true,
       "period": ["2024. 05", "2024. 06"],
-      "stack": ["Spring", "SpringBoot", "MySQL", "Vue.js"]
+      "stack": ["Spring", "SpringBoot", "MySQL", "Vue.js", "MyBatis"]
     },
     {
       "id": 1,
       "name": "Readly",
-      "description": "독서를 하고싶은 사람들을 위한 독서 장려 웹사이트",
+      "description": "독서를 하고싶은 사람들을 위한 독서 장려 웹사이트입니다.",
       "repoUrl": "https://github.com/gichangee/Readly",
       "isTeam": true,
       "period": ["2024. 07", "2024. 08"],
