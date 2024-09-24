@@ -15,7 +15,7 @@ const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS;
 
 const DEFAULT_SEO = {
   title: "박기창 | Back-End Dev",
-  description: "안녕하세요, 백엔드 개발자 홍길동입니다.",
+  description: "안녕하세요, 백엔드 개발자 박기창입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
@@ -50,6 +50,11 @@ const DEFAULT_SEO = {
     {
       name: "viewport",
       content: "width=device-width, initial-scale=1",
+    },
+    // 여기에 Google 사이트 확인을 위한 메타태그 추가
+    {
+      name: "google-site-verification",
+      content: "0DBnuk0JKs5O9G0_Q7gsmTqwxQ7_unsr6bpuE8DFN8M",
     },
   ],
 };
