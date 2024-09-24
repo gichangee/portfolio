@@ -67,7 +67,7 @@
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": false,
       "period": ["2024. 09", "2024. 12"],
-      "stack": ["SPring", "SpringBoot","Vue.js","H2","Spring Security","Spring Rest Docs"]
+      "stack": ["SPring", "SpringBoot","Vue.js","H2","Spring Security","Spring Rest Docs", "JPA"]
     },
     {
       "id": 5,
