@@ -47,7 +47,7 @@
       "repoUrl": "https://j11c206.p.ssafy.io/",
       "isTeam": true,
       "period": ["2024. 08", "2024. 10"],
-      "stack": ["Spring", "React", "Jenkins","Docker","MySQL","JPA"]
+      "stack": ["Spring", "React", "Jenkins","Docker","MySQL","JPA","Nginx"]
     },
     {
       "id": 3,
@@ -76,7 +76,7 @@
       "repoUrl": "http://15.165.144.119:8080/docs/index.html",
       "isTeam": false,
       "period": ["2024. 09", "2024. 12"],
-      "stack": ["SPring", "SpringBoot","Vue.js","H2","Spring Security","Spring Rest Docs", "JPA", "JUnit5","MockMVC"]
+      "stack": ["SPring", "SpringBoot","Vue.js","H2","Spring Security","Spring Rest Docs", "JPA", "JUnit5","MockMVC", "Nginx"]
     }
   ],
 
