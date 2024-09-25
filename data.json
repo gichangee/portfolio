@@ -43,8 +43,8 @@
       "id": 2,
       "name": "요리조리",
       "description": "사용자 평점, 선호 재료, 알러지 등 사용자 관련 데이터로 레시피 추천해주는 웹사이트입니다.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://j11c206.p.ssafy.io/",
+      "webUrl": "https://j11c206.p.ssafy.io/",
+      "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
       "period": ["2024. 08", "2024. 10"],
       "stack": ["Spring", "React", "Jenkins","Docker","MySQL","JPA","Nginx"]
