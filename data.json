@@ -1,6 +1,6 @@
 {
   "resumeTitle": {
-    "title": "Park Gi Chang"
+    "title": "PGC"
   },
 
   "information": {
@@ -14,9 +14,9 @@
   "workExperience": [
     {
       "id": 0,
-      "name": "",
-      "position": "",
-      "period": ["", ""]
+      "name": "하림",
+      "position": "디지털혁신팀",
+      "period": ["2025.10", "재직중"]
     }
   ],
 
@@ -83,27 +83,28 @@
   "activity": [
     {
       "id": 0,
+      "name": "SSAFY 11기",
+      "period": ["2024.01.02", "2025.10.10"],
+      "description": "웹 프레임워크(Spring, Vue.js) 및 알고리즘을 심화 학습하고, 이를 바탕으로 실무 환경과 유사한 팀 프로젝트 경험을 쌓았습니다."
+    },
+    {
+      "id": 1,
+      "name": "NHN Java Backed 개발과정 4기",
+      "period": ["2023.08.28", "2023.12.15"],
+      "description": "Java, MySQL, JSP/Servlet 기반의 백엔드 실무 과정을 학습했습니다."
+    },
+    {
+      "id": 2,
       "name": "Java 프로그래밍 튜터",
       "period": ["2022. 06", "2022. 08"],
-      "description": "학생들에게 Java 프로그래밍 기초를 가르치며, 객체 지향 개념을 교육했습니다."
+      "description": "학생들을 대상으로 Java 프로그래밍 기초 및 객체지향 개념을 교육했습니다."
     }
   ],
 
   "education": [
+
     {
       "id": 0,
-      "name": "NHN Java Backed 개발과정",
-      "period": ["2023.08.28", "2023.12.15"],
-      "description": "NHN 아카데미 백엔드 4기에서 Java, MySQL, JSP/Servlet를 학습하였습니다."
-    },
-    {
-      "id": 1,
-      "name": "SSAFY",
-      "period": ["2024.01.02", "~"],
-      "description": "삼성 청년 SW 아카데미(SSAFY)에서 웹 프레임워크(Spring, Vue.js), 알고리즘를 학습하고 배운 내용을 바탕으로 프로젝트 경험을 쌓았습니다."
-    },  
-    {
-      "id": 2,
       "name": "조선대학교 컴퓨터공학과",
       "period": ["2018.03.02", "2024.02.23"],
       "description": "조선대 컴퓨터공학과 졸업"
@@ -113,21 +114,15 @@
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 680점",
-      "date": "2022.10.30",
-      "organizer": "ETS"
+      "name": "정보처리기사",
+      "date": "2023.06.09",
+      "organizer": "한국인력산업공단"
     },
     {
       "id": 1,
       "name": "SQLD",
       "date": "2024.04.05",
       "organizer": "한국데이터산업진흥원"
-    }, 
-    {
-      "id": 2,
-      "name": "정보처리기사",
-      "date": "2023.06.09",
-      "organizer": "한국인력산업공단"
     }
   ],
 
