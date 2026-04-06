@@ -14,21 +14,21 @@ const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS;
 
 
 const DEFAULT_SEO = {
-  title: "박기창 | Back-End Dev",
-  description: "안녕하세요, 백엔드 개발자 박기창입니다.",
+  title: "박기창 | WMS Backend Engineer",
+  description: "물류 프로세스의 최적화를 고민하는 WMS 백엔드 엔지니어 박기창입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
     url: "https://www.naver.com/",
-    title: "박기창 | Back-End Dev",
-    site_name: "박기창 | Back-End Dev",
+    title: "박기창 | WMS Backend Engineer",
+    site_name: "박기창 | WMS Backend Engineer",
     images: [
       {
         url: "/share.png",
         width: 285,
         height: 167,
-        alt: "박기창 | Back-End Dev",
+        alt: "박기창 | WMS Backend Engineer",
       },
     ],
   },
@@ -41,11 +41,11 @@ const DEFAULT_SEO = {
   additionalMetaTags: [
     {
       name: "application-name",
-      content: "박기창 | Back-End Dev",
+      content: "박기창 | WMS Backend Engineer",
     },
     {
       name: "msapplication-tooltip",
-      content: "박기창 | Back-End Dev",
+      content: "박기창 | WMS Backend Engineer",
     },
     {
       name: "viewport",

@@ -16,7 +16,7 @@
       "id": 0,
       "name": "하림",
       "position": "디지털혁신팀",
-      "period": ["2025.10", "재직중"]
+      "period": ["2025. 10", "now"]
     }
   ],
 
@@ -72,17 +72,17 @@
       "id": 5,
       "name": "기돌로그",
       "description": "간단한 블로그, 지금까지 학습한걸 구현 및 배포까지 직접 구현하며 학습하였습니다.",
-      "webUrl": "https://github.com/gichangee/gidolog",
-      "repoUrl": "http://15.165.144.119:8080/docs/index.html",
+      "webUrl": "http://15.165.144.119:8080/docs/index.html",
+      "repoUrl": "https://github.com/gichangee/gidolog",
       "isTeam": false,
       "period": ["2024. 09", "2024. 12"],
-      "stack": ["SPring", "SpringBoot","Vue.js","H2","Spring Security","Spring Rest Docs", "JPA", "JUnit5","MockMVC", "Nginx"]
+      "stack": ["Spring", "SpringBoot","Vue.js","H2","Spring Security","Spring Rest Docs", "JPA", "JUnit5","MockMVC", "Nginx"]
     }
   ],
 
   "activity": [
     {
-      "id": 0,
+      "id": 2,
       "name": "SSAFY 11기",
       "period": ["2024.01.02", "2025.10.10"],
       "description": "웹 프레임워크(Spring, Vue.js) 및 알고리즘을 심화 학습하고, 이를 바탕으로 실무 환경과 유사한 팀 프로젝트 경험을 쌓았습니다."
@@ -94,10 +94,10 @@
       "description": "Java, MySQL, JSP/Servlet 기반의 백엔드 실무 과정을 학습했습니다."
     },
     {
-      "id": 2,
-      "name": "Java 프로그래밍 튜터",
+      "id": 0,
+      "name": "C언어 튜터",
       "period": ["2022. 06", "2022. 08"],
-      "description": "학생들을 대상으로 Java 프로그래밍 기초 및 객체지향 개념을 교육했습니다."
+      "description": "학생들을 대상으로 C언어 기초 및 객체지향 개념을 교육했습니다."
     }
   ],
 
@@ -113,13 +113,13 @@
 
   "certificate": [
     {
-      "id": 0,
+      "id": 1,
       "name": "정보처리기사",
       "date": "2023.06.09",
       "organizer": "한국인력산업공단"
     },
     {
-      "id": 1,
+      "id": 0,
       "name": "SQLD",
       "date": "2024.04.05",
       "organizer": "한국데이터산업진흥원"
