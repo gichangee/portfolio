@@ -32,7 +32,7 @@ const Home: NextPage<DataProps> = ({
       <ResumeTitle resumeTitle={resumeTitle} />
       <Layout>
         <Information information={information} />
-         {/* <WorkExperience workExperience={workExperience} />*/}
+        <WorkExperience workExperience={workExperience} />
         <Project project={project} />
         <Activity activity={activity} />
         <Education education={education} />
