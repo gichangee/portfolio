@@ -50,16 +50,6 @@
       "stack": ["Spring", "React", "Jenkins","Docker","MySQL","JPA","Nginx"]
     },
     {
-      "id": 3,
-      "name": "자율프로젝트",
-      "description": "싸피 자율프로젝트",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
-      "isTeam": true,
-      "period": ["2024. 10", "2024. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
-    },
-    {
       "id": 4,
       "name": "쇼핑물 웹사이트 구현",
       "description": "servlet-jsp 기반 Web Application을 MVC 패턴을 적용해 구현하며 학습했습니다.",
@@ -82,7 +72,7 @@
 
   "activity": [
     {
-      "id": 2,
+      "id": 0,
       "name": "SSAFY 11기",
       "period": ["2024.01.02", "2025.10.10"],
       "description": "웹 프레임워크(Spring, Vue.js) 및 알고리즘을 심화 학습하고, 이를 바탕으로 실무 환경과 유사한 팀 프로젝트 경험을 쌓았습니다."
@@ -94,7 +84,7 @@
       "description": "Java, MySQL, JSP/Servlet 기반의 백엔드 실무 과정을 학습했습니다."
     },
     {
-      "id": 0,
+      "id": 2,
       "name": "객체지향 언어 튜터",
       "period": ["2022. 06", "2022. 08"],
       "description": "학생들을 대상으로 객체지향 언어 기초 및 객체지향 개념을 교육했습니다."
@@ -113,13 +103,13 @@
 
   "certificate": [
     {
-      "id": 1,
+      "id": 0,
       "name": "정보처리기사",
       "date": "2023.06.09",
       "organizer": "한국인력산업공단"
     },
     {
-      "id": 0,
+      "id": 1,
       "name": "SQLD",
       "date": "2024.04.05",
       "organizer": "한국데이터산업진흥원"
