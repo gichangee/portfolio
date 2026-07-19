@@ -5,6 +5,7 @@
 ## Technology Stack
 
 **Backend**
+
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django">
@@ -14,6 +15,7 @@
 </div>
 
 **Database**
+
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
@@ -22,6 +24,7 @@
 </div>
 
 **DevOps / Infra**
+
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
@@ -30,6 +33,7 @@
 </div>
 
 **Tools & Collaboration**
+
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab">
   <img src="https://img.shields.io/badge/Nexus-1B1515?style=for-the-badge&logo=Sonatype&logoColor=white" alt="Nexus">
